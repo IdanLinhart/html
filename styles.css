@@ -1,0 +1,18 @@
+body{
+ center	
+}
+img{
+	width:200;
+	border:2px solid red;
+	
+}
+.red{
+	color:red;
+	font-size:32px;
+	font-family:arial;
+	text-align:center;
+}
+#specialstyle{
+	text-align:left;
+	color:red;
+}
